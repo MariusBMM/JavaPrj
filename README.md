@@ -1,2 +1,2 @@
 # JavaPrj
-Priecte Java
+Proiecte Java
